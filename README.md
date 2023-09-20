@@ -6,22 +6,9 @@ This is a modern and stylish login form designed using HTML and CSS. The form fe
 
 ![Glass UI Login Form](preview.png)
 
-## Features
-
-- Glass-inspired design
-- Input fields for username/email and password
-- "Keep me Signed in" checkbox
-- Login button
-
-  
-## Usage
-
-1. Clone this repository or download the HTML and CSS files.
-2. Open the `index.html` file in a web browser.
-
 ## Customization
 
-You can customize the form by:
+Form can be customized by:
 
 - Uncommenting the login button element.
 - Modifying the background image in the CSS.
